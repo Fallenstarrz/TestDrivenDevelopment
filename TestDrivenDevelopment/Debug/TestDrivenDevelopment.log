@@ -1,2 +1,4 @@
-﻿  TestDrivenDevelopment.cpp
-  TestDrivenDevelopment.vcxproj -> C:\Users\CHRKOON\Desktop\TestDrivenDevelopment\Debug\TestDrivenDevelopment.exe
+﻿  pch.cpp
+  TestDrivenDevelopment.cpp
+  LINK : C:\Users\CHRKOON\Desktop\TestDrivenDevelopment-master\TestDrivenDevelopment\Debug\TestDrivenDevelopment.exe not found or not built by the last incremental link; performing full link
+  TestDrivenDevelopment.vcxproj -> C:\Users\CHRKOON\Desktop\TestDrivenDevelopment-master\TestDrivenDevelopment\Debug\TestDrivenDevelopment.exe
